@@ -19,8 +19,8 @@ A binary text classification model using LSTM to detect fake vs real news articl
 - Matplotlib, Seaborn
 
 ## 🚀 Results
-- Test Accuracy: ~**xx%**
-- F1 Score: ~**yy**
+- Test Accuracy: 97.36%
+- F1 Score: 97
 
 Confusion Matrix:
 
