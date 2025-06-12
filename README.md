@@ -23,6 +23,8 @@ A binary text classification model using LSTM to detect fake vs real news articl
 - F1 Score: 97
 
 Confusion Matrix:
+
+
 ![confusionMatrix](https://github.com/user-attachments/assets/9796312e-f020-4229-a3fc-7ba6ea97f7cc)
 
 
